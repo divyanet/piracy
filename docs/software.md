@@ -211,6 +211,7 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [iHackedit](https://ihackedit.com/) - Provides Android Apps & Games including Mods.
 - [Sbenny](https://forum.sbenny.com/forums/apps.14/) - Modded games and apps.
 - [ApkPure](https://apkpure.com/) - Another free APK mirror site.
+- [APKSApps](http://apksapps.com/) - Another free APK mirror site.
 - [Androeed](https://www.androeed.ru/) - (RU) - Russian APK site.
 - [On HAX](https://onhax.me/) - APK Mods and mirrors.
 - [BlackMod](https://blackmod.net/) - Lots of cracked Android games.
@@ -226,6 +227,8 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [ApkDone](https://apkdone.com/)
 - [ModDroid](https://moddroid.com/)
 - [AndroidOyun](https://androidoyun.club/)
+- [DivyaNet](https://divyanet.com/)
+- [OnlineHindiGuuide](http://onlinehindiguide.com/)
 
 ### Streaming
 
